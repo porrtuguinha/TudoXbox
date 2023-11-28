@@ -6,10 +6,7 @@ function Menu(){
         <div className="Menu">
 
 
-            <p className="texto">noticias /
-            produtos /
-             Jogos /
-            Fale Conosco /
+            <p className="texto">noticias / produtos /Jogos / Fale Conosco 
             </p>
 
 

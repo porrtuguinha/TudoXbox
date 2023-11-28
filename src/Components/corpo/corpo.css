@@ -1,0 +1,31 @@
+.corpo{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.noticias{
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+.noticia{
+    background-color: black;
+    width: 100%;
+}
+.foto{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+
+}
+.TextoNoticia{
+    text-align: center;
+    color: green;
+}
+
+
