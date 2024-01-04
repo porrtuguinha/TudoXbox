@@ -5,7 +5,7 @@ return(
 <div className="noticias">
     <div className="noticia">
         <div className="foto">
-            <img src="/images/activision.jpg" height={500} width={600}/>
+            <img src="./images/activision.jpg" height={500} width={600}/>
         </div>
         <div className="TextoNoticia">
             <h2>Xbox Confirma Compra da Activision/Blizzard/King e irrita usuários do playstation</h2>
