@@ -6,8 +6,10 @@ function Menu(){
         <div className="Menu">
 
 
-            <p className="texto">noticias / produtos /Jogos / Fale Conosco 
-            </p>
+            <tr>
+                <td className="texto">noticias/</td>
+                <td className="texto">Jogos/</td>
+            </tr>
 
 
 
