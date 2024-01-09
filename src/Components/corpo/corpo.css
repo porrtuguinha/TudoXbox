@@ -1,6 +1,7 @@
 .corpo{
     display: flex;
     flex-direction: column;
+    width: 100%;
     
 
 }
@@ -11,6 +12,7 @@
     align-items: center;
     text-align: center;
     justify-content: center;
+    width: 100%;
 
 }
 .noticia{
