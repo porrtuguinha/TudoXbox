@@ -1,10 +1,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Oswald&family=Vina+Sans&display=swap');
-.menu{
+.Menu{
     width: 100%;
 }
 .texto{
     color:rgb(18, 237, 18);
-    
     font-family: 'Oswald', sans-serif;
+}
+tr{
+    width: 100%;
 }
