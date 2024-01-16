@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TudoXbox/static/css/main.4ff10cf4.css",
+    "main.css": "/TudoXbox/static/css/main.2e5118a0.css",
     "main.js": "/TudoXbox/static/js/main.a5676e5d.js",
     "static/js/787.bc81fb1c.chunk.js": "/TudoXbox/static/js/787.bc81fb1c.chunk.js",
     "static/media/logo.svg": "/TudoXbox/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/TudoXbox/index.html",
-    "main.4ff10cf4.css.map": "/TudoXbox/static/css/main.4ff10cf4.css.map",
+    "main.2e5118a0.css.map": "/TudoXbox/static/css/main.2e5118a0.css.map",
     "main.a5676e5d.js.map": "/TudoXbox/static/js/main.a5676e5d.js.map",
     "787.bc81fb1c.chunk.js.map": "/TudoXbox/static/js/787.bc81fb1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ff10cf4.css",
+    "static/css/main.2e5118a0.css",
     "static/js/main.a5676e5d.js"
   ]
 }
