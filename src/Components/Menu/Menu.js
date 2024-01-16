@@ -6,10 +6,12 @@ function Menu(){
         <div className="Menu">
 
 
+          <nav className="menuNavegacao">
             <tr>
-                <td className="texto">noticias/</td>
                 <td className="texto">Jogos/</td>
+                <td className="texto">notícias</td>
             </tr>
+          </nav>
 
 
 

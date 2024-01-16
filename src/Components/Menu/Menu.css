@@ -10,3 +10,8 @@
 tr{
     width: 100%;
 }
+.menuNavegacao{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
