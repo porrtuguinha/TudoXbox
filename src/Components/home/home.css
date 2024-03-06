@@ -3,3 +3,8 @@
     display: flex;
     flex-direction: column;
 }
+.Banner{
+    align-items: center;
+    width: 100%;
+
+}

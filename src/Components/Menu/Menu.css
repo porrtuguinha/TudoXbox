@@ -2,16 +2,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Oswald&family=Vina+Sans&display=swap');
 .Menu{
     width: 100%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 .texto{
     color:rgb(18, 237, 18);
     font-family: 'Oswald', sans-serif;
-}
-tr{
-    width: 100%;
+    height: 100%;    
+    text-align: center;
+    position:relative;
+    float:left;
 }
 .menuNavegacao{
     display: flex;
     flex-direction: row;
-    width: 100%;
+    width: 50%;
+}
+.menuoficial{
+    list-style:none;;
+float:left;
 }

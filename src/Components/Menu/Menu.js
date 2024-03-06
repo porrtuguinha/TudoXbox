@@ -7,10 +7,10 @@ function Menu(){
 
 
           <nav className="menuNavegacao">
-            <tr>
-                <td className="texto">Jogos/</td>
-                <td className="texto">notícias</td>
-            </tr>
+            <ul className="menuoficial">
+              <li className="texto">Jogos/</li>
+              <li className="texto">Noticias</li>
+            </ul>
           </nav>
 
 
